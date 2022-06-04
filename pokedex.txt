@@ -1,0 +1,1111 @@
+
+
+Picture
+
+
+
+
+Name
+Other Names
+No.
+Gender Ratio
+Type
+
+
+Bulbasaur
+
+ Japan: Fushigidaneフシギダネ
+ French: Bulbizarre
+ German: Bisasam
+ Korean: 이상해씨
+
+ National: #001
+Galar: #Foreign
+Isle of Armor: #068
+Crown Tundra: #---
+Sinnoh: #---
+Hisui: #---
+
+ Male ♂:88.14%Female ♀:11.86%
+ 
+
+
+Classification
+Height
+Weight
+Capture Rate
+Base Egg Steps
+
+
+Seed Pokémon
+2'04"
+			0.7m
+15.2lbs
+			6.9kg455,120
+ 
+Abilities: Overgrow - Chlorophyll (Hidden Ability) 
+
+
+
+Overgrow: When HP is below 1/3rd its maximum, power of Grass-type moves is increased by 50%. 
+Hidden Ability: Chlorophyll: When sunny, the Pokémon’s Speed doubles. 
+
+
+Experience Growth
+Base Happiness
+Effort Values Earned
+Dynamax Capable?
+
+
+1,059,862 PointsMedium Slow
+50 1 Sp. Attack Point(s)
+			Bulbasaur can Dynamax
+		
+
+
+
+Weakness
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+*1
+*2
+*0.5
+*0.5
+*0.25
+*2
+*0.5
+*1
+*1
+*2
+*2
+*1
+*1
+*1
+*1
+*1
+*1
+*0.5
+
+
+
+Wild Hold Item
+Egg Groups
+
+
+ 
+
+MonsterBulbasaurIvysaurVenusaurCharmanderCharmeleonCharizardSquirtleWartortleBlastoiseNidoran♀Nidoran♂NidorinoNidokingSlowpokeSlowbroCuboneMarowakLickitungRhyhornRhydonKangaskhanLaprasSnorlaxChikoritaBayleefMeganiumTotodileCroconawFeraligatrMareepFlaaffyAmpharosSlowkingLarvitarPupitarTyranitarTreeckoGrovyleSceptileMudkipMarshtompSwampertWhismurLoudredExploudAronLaironAggronTropiusTurtwigGrotleTorterraCranidosRampardosShieldonBastiodonGibleGabiteGarchompSnoverAbomasnowLickilickyRhyperiorAxewFraxureHaxorusDruddigonHelioptileHelioliskTyruntTyrantrumAmauraAurorusBergmiteAvaluggSalanditSalazzleTurtonatorDrampaChewtleDrednawDittoMonster
+
+GrassBulbasaurIvysaurVenusaurOddishGloomVileplumeParasParasectBellsproutWeepinbellVictreebelExeggcuteExeggutorTangelaChikoritaBayleefMeganiumBellossomHoppipSkiploomJumpluffSunkernSunfloraLotadLombreLudicoloSeedotNuzleafShiftryShroomishBreloomRoseliaCacneaCacturneTropiusTurtwigGrotleTorterraRoseradeCherubiCherrimCarnivineSnoverAbomasnowTangrowthCottoneeWhimsicottPetililLilligantMaractusFoongusAmoongussFerroseedFerrothornPhantumpTrevenantFomantisLurantisMorelullShiinoticBounsweetSteeneeTsareenaComfeyGrookeyThwackeyRillaboomGossifleurEldegossApplinFlappleAppletunDittoGrass
+
+
+
+Evolutionary Chain
+
+
+
+
+
+
+
+
+
+Locations - In-Depth Details
+
+
+Sword
+Transfer through Pokémon HOME or through events
+
+
+Shield
+Transfer through Pokémon HOME or through events
+
+
+Isle of Armor
+Sword
+Gift in Master Dojo
+
+
+Shield
+Gift in Master Dojo
+
+
+Brilliant Diamond
+Grand UndergroundDetails
+
+
+Shining Pearl
+Grand UndergroundDetails
+
+
+
+Flavor Text
+
+Sword
+There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.
+
+Shield
+While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.
+
+Brilliant Diamond
+For some time after its birth, it grows by taking nourishment from the seed on its back.
+
+Shining Pearl
+Standard Level UpLevelAttack NameTypeCat.Att.Acc.PPEffect %
+—
+Tackle
+
+
+40
+100
+35
+--
+A physical attack in which the user charges and slams into the target with its whole body.
+—
+Growl
+
+
+--
+100
+40
+--
+The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stats.
+3
+Vine Whip
+
+
+45
+100
+25
+--
+The target is struck with slender, whiplike vines to inflict damage.
+6
+Growth
+
+
+--
+101
+20
+--
+The user's body grows all at once, raising the Attack and Sp. Atk stats.
+9
+Leech Seed
+
+
+--
+90
+10
+--
+A seed is planted on the target. It steals some HP from the target every turn.
+12
+Razor Leaf
+
+
+55
+95
+25
+--
+Sharp-edged leaves are launched to slash at opposing Pokémon. Critical hits land more easily.
+15
+Poison Powder
+
+
+--
+75
+35
+--
+The user scatters a cloud of poisonous dust that poisons the target.
+15
+Sleep Powder
+
+
+--
+75
+15
+--
+The user scatters a big cloud of sleep-inducing dust around the target.
+18
+Seed Bomb
+
+
+80
+100
+15
+--
+The user slams a barrage of hard-shelled seeds down on the target from above.
+21
+Take Down
+
+
+90
+85
+20
+--
+A reckless, full-body charge attack for slamming into the target. This also damages the user a little.
+24
+Sweet Scent
+
+
+--
+100
+20
+--
+A sweet scent that harshly lowers opposing Pokémon's evasiveness.
+27
+Synthesis
+
+
+--
+101
+5
+--
+The user restores its own HP. The amount of HP regained varies with the weather.
+30
+Worry Seed
+
+
+--
+100
+10
+--
+A seed that causes worry is planted on the target. It prevents sleep by making the target's Ability Insomnia.
+33
+Double-Edge
+
+
+120
+100
+15
+--
+A reckless, life-risking tackle in which the user rushes the target. This also damages the user quite a lot.
+36
+Solar Beam
+
+
+120
+100
+10
+--
+In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.Sword & Shield Technical Machine AttacksTM #Attack NameTypeCat.Att.Acc.PPEffect %TM10
+Magical Leaf
+
+
+60
+101
+20
+--
+The user scatters curious leaves that chase the target. This attack never misses.TM11
+Solar Beam
+
+
+120
+100
+10
+--
+In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.TM17
+Light Screen
+
+
+--
+101
+30
+--
+A wondrous wall of light is put up to reduce damage from special attacks for five turns.TM19
+Safeguard
+
+
+--
+101
+25
+--
+The user creates a protective field that prevents status conditions for five turns.TM21
+Rest
+
+
+--
+101
+10
+--
+The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions.TM24
+Snore
+
+
+50
+100
+15
+30
+This attack can be used only if the user is asleep. The harsh noise may also make the target flinch.TM25
+Protect
+
+
+--
+101
+10
+--
+This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.TM28
+Giga Drain
+
+
+75
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM29
+Charm
+
+
+--
+100
+20
+--
+The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target's Attack stat.TM31
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.TM34
+Sunny Day
+
+
+--
+101
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. It lowers the power of Water-type moves.TM39
+Facade
+
+
+70
+100
+20
+--
+This attack move doubles its power if the user is poisoned, burned, or paralyzed.TM41
+Helping Hand
+
+
+--
+101
+20
+--
+The user assists an ally by boosting the power of that ally's attack.TM46
+Weather Ball
+
+
+50
+100
+10
+--
+This attack move varies in power and type depending on the weather.TM50
+Bullet Seed
+
+
+25
+100
+30
+--
+The user forcefully shoots seeds at the target two to five times in a row.TM74
+Venoshock
+
+
+65
+100
+10
+--
+The user drenches the target in a special poisonous liquid. This move's power is doubled if the target is poisoned.TM76
+Round
+
+
+60
+100
+15
+--
+The user attacks the target with a song. Others can join in the Round to increase the power of the attack.TM88
+Grassy Terrain
+
+
+--
+101
+10
+--
+The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass-type moves.TM94
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.Technical Record AttacksTR #Attack NameTypeCat.Att.Acc.PPEffect %TR00
+Swords Dance
+
+
+--
+101
+20
+--
+A frenetic dance to uplift the fighting spirit. This sharply raises the user's Attack stat.TR01
+Body Slam
+
+
+85
+100
+15
+30
+The user drops onto the target with its full body weight. This may also leave the target with paralysis.TR17
+Amnesia
+
+
+--
+101
+20
+--
+The user temporarily empties its mind to forget its concerns. This sharply raises the user's Sp. Def stat.TR20
+Substitute
+
+
+--
+101
+10
+--
+The user creates a substitute for itself using some of its HP. The substitute serves as the user's decoy.TR22
+Sludge Bomb
+
+
+90
+100
+10
+30
+Unsanitary sludge is hurled at the target. This may also poison the target.TR26
+Endure
+
+
+--
+101
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TR27
+Sleep Talk
+
+
+--
+101
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows.TR59
+Seed Bomb
+
+
+80
+100
+15
+--
+The user slams a barrage of hard-shelled seeds down on the target from above.TR65
+Energy Ball
+
+
+90
+100
+10
+10
+The user draws power from nature and fires it at the target. This may also lower the target's Sp. Def stat.TR71
+Leaf Storm
+
+
+130
+90
+5
+100
+The user whips up a storm of leaves around the target. The attack's recoil harshly lowers the user's Sp. Atk stat.TR72
+Power Whip
+
+
+120
+85
+10
+--
+The user violently whirls its vines, tentacles, or the like to harshly lash the target.TR77
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the target with grass and trips it. The heavier the target, the greater the move's power.TR85
+Work Up
+
+
+--
+101
+30
+--
+The user is roused, and its Attack and Sp. Atk stats increase.BDSP Technical Machine AttacksTM #Attack NameTypeCat.Att.Acc.PPEffect %TM06
+Toxic
+
+
+--
+90
+10
+--
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.TM09
+Bullet Seed
+
+
+25
+100
+30
+--
+The user forcefully shoots seeds at the target two to five times in a row.TM10
+Work Up
+
+
+--
+101
+30
+--
+The user is roused, and its Attack and Sp. Atk stats increase.TM11
+Sunny Day
+
+
+--
+101
+5
+--
+The user intensifies the sun for five turns, powering up Fire-type moves. It lowers the power of Water-type moves.TM16
+Light Screen
+
+
+--
+101
+30
+--
+A wondrous wall of light is put up to reduce damage from special attacks for five turns.TM17
+Protect
+
+
+--
+101
+10
+--
+This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.TM19
+Giga Drain
+
+
+75
+100
+10
+--
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.TM20
+Safeguard
+
+
+--
+101
+25
+--
+The user creates a protective field that prevents status conditions for five turns.TM22
+Solar Beam
+
+
+120
+100
+10
+--
+In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.TM32
+Double Team
+
+
+--
+101
+15
+--
+By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.TM36
+Sludge Bomb
+
+
+90
+100
+10
+30
+Unsanitary sludge is hurled at the target. This may also poison the target.TM42
+Facade
+
+
+70
+100
+20
+--
+This attack move doubles its power if the user is poisoned, burned, or paralyzed.TM44
+Rest
+
+
+--
+101
+10
+--
+The user goes to sleep for two turns. This fully restores the user's HP and heals any status conditions.TM45
+Attract
+
+
+--
+100
+15
+--
+If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.TM53
+Energy Ball
+
+
+90
+100
+10
+10
+The user draws power from nature and fires it at the target. This may also lower the target's Sp. Def stat.TM54
+False Swipe
+
+
+40
+100
+40
+--
+A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.TM58
+Endure
+
+
+--
+101
+10
+--
+The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.TM70
+Flash
+
+
+--
+100
+20
+--
+The user flashes a light that lowers the target's accuracy. It can also be used to illuminate caves.TM75
+Swords Dance
+
+
+--
+101
+20
+--
+A frenetic dance to uplift the fighting spirit. This sharply raises the user's Attack stat.TM82
+Sleep Talk
+
+
+--
+101
+10
+--
+While it is asleep, the user randomly uses one of the moves it knows.TM86
+Grass Knot
+
+
+??
+100
+20
+--
+The user snares the target with grass and trips it. The heavier the target, the greater the move's power.TM87
+Swagger
+
+
+--
+85
+15
+--
+The user enrages and confuses the target. However, this also sharply raises the target's Attack stat.TM90
+Substitute
+
+
+--
+101
+10
+--
+The user creates a substitute for itself using some of its HP. The substitute serves as the user's decoy.TM93
+Cut
+
+
+50
+95
+30
+--
+The target is cut with a scythe or claw.TM96
+Strength
+
+
+80
+100
+15
+--
+The target is slugged with a punch thrown at maximum power.TM98
+Rock Smash
+
+
+40
+100
+15
+50
+The user attacks with a punch. This may also lower the target's Defense stat.Egg Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %  Skull Bash
+
+
+130
+100
+10
+100
+Details
+The user tucks in its head to raise its Defense stat on the first turn, then rams the target on the next turn.Petal Dance
+
+
+120
+100
+10
+--
+Details
+The user attacks the target by scattering petals for two to three turns. The user then becomes confused.Curse
+
+
+--
+101
+10
+--
+Details
+A move that works differently for the Ghost type than for all other types.Ingrain
+
+
+--
+101
+20
+--
+Details
+The user lays roots that restore its HP on every turn. Because it's rooted, it can't switch out.Nature Power
+
+
+--
+101
+20
+--
+Details
+This attack makes use of nature's power. Its effects vary depending on the user's environment.ToxicSWSH Only
+
+
+--
+90
+10
+--
+Details
+A move that leaves the target badly poisoned. Its poison damage worsens every turn.CharmBDSP Only
+
+
+--
+100
+20
+--
+Details
+The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target's Attack stat.Magical LeafBDSP Only
+
+
+60
+101
+20
+--
+Details
+The user scatters curious leaves that chase the target. This attack never misses.AmnesiaBDSP Only
+
+
+--
+101
+20
+--
+Details
+The user temporarily empties its mind to forget its concerns. This sharply raises the user's Sp. Def stat.Leaf StormBDSP Only
+
+
+130
+90
+5
+100
+Details
+The user whips up a storm of leaves around the target. The attack's recoil harshly lowers the user's Sp. Atk stat.Power WhipBDSP Only
+
+
+120
+85
+10
+--
+Details
+The user violently whirls its vines, tentacles, or the like to harshly lash the target.SludgeBDSP Only
+
+
+65
+100
+20
+30
+Details
+Unsanitary sludge is hurled at the target. This may also poison the target.Grassy TerrainBDSP Only
+
+
+--
+101
+10
+--
+Details
+The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass-type moves.Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Grass Pledge8010010--A column of grass hits the target. When used with its water equivalent, its power increases and a vast swamp appears.Isle of Armor Move Tutor AttacksAttack NameTypeCat.Att.Acc.PPEffect %Grassy Glide7010020--Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain.Usable Max MovesAttack NameTypeCat.Max Att.Acc.PPEffect %
+Max Strike
+
+
+140(Phy)/130(Spe)
+101
+10
+--
+This is a Normal-type attack Dynamax Pokémon use. This lowers the target's Speed stat.
+Max Ooze
+
+
+90
+101
+10
+--
+This is a Poison-type attack Dynamax Pokémon use. This raises ally Pokémon's Sp. Atk stats.
+Max Overgrowth
+
+
+140(Phy)/140(Spe)
+101
+10
+--
+This is a Grass-type attack Dynamax Pokémon use. The user turns the ground into Grassy Terrain for five turns.
+Max Guard
+
+
+
+101
+10
+--
+This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.Transfer Only Moves
+Click here to see all transfer exclusive moves
+Transfer Only Moves (Details)Attack NameTypeCat.Att.Acc.PPEffect %MethodEchoed Voice
+
+
+40
+100
+15
+--
+Gen VII TM49
+The user attacks the target with an echoing voice. If this move is used every turn, its power is increased.Confide
+
+
+--
+101
+20
+100
+Gen VII TM100
+The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target's Sp. Atk stat.Headbutt
+
+
+70
+100
+15
+30
+Let's Go TM01
+The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.Reflect
+
+
+--
+101
+20
+--
+Let's Go TM09
+A wondrous wall of light is put up to reduce damage from physical attacks for five turns.Outrage
+
+
+120
+100
+10
+--
+Let's Go TM39
+The user rampages and attacks for two to three turns. The user then becomes confused.Mega Drain
+
+
+40
+100
+15
+--
+Let's Go TM53
+A nutrient-draining attack. The user's HP is restored by half the damage taken by the target.Bind
+
+
+15
+85
+20
+100
+Move Tutor - USM
+Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns.Knock Off
+
+
+65
+100
+20
+--
+Move Tutor - USM
+The user slaps down the target's held item, and that item can't be used in that battle. The move does more damage if the target has a held item.Fury Cutter
+
+
+40
+95
+20
+--
+Move Tutor - PtHGSS
+The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession.Mud-slap
+
+
+20
+100
+10
+100
+Move Tutor - PtHGSS
+The user hurls mud in the target's face to inflict damage and lower its accuracy.String Shot
+
+
+--
+95
+40
+--
+Move Tutor - HGSS
+Opposing Pokémon are bound with silk blown from the user's mouth that harshly lowers the Speed stat.Mimic
+
+
+--
+101
+10
+--
+Move Tutor - FRLG
+The user copies the target's last move. The move can be used during battle until the Pokémon is switched out.Defense Curl
+
+
+--
+101
+40
+--
+Move Tutor - Emerald
+The user curls up to conceal weak spots and raise its Defense stat.
+Stats
+ 
+HP
+Attack
+Defense
+Sp. Attack
+Sp. Defense
+Speed
+Base Stats - Total: 318
+45
+49
+49
+65
+65
+45
+Max StatsHindering Nature
+Lv. 50
+105 - 152
+48 - 90
+48 - 90
+63 - 105
+63 - 105
+45 - 87
+Lv. 100
+200 - 294
+92 - 177
+92 - 177
+121 - 206
+121 - 206
+85 - 170
+Max StatsNeutral Nature
+Lv. 50
+105 - 152
+54 - 101
+54 - 101
+70 - 117
+70 - 117
+50 - 97
+Lv. 100
+200 - 294
+103 - 197
+103 - 197
+135 - 229
+135 - 229
+95 - 189
+Max StatsBeneficial Nature
+Lv. 50
+105 - 152
+59 - 111
+59 - 111
+77 - 128
+77 - 128
+55 - 106
+Lv. 100
+200 - 294
+113 - 216
+113 - 216
+148 - 251
+148 - 251
+104 - 207
