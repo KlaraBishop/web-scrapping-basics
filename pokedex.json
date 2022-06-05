@@ -1,0 +1,316 @@
+[
+    {
+        "id": "#001",
+        "name": "Bulbasaur",
+        "capture-rate": "45",
+        "types": [
+            "Grass-type",
+            "Poison-type"
+        ],
+        "locations": [
+            {
+                "versions": "Sword",
+                "location": "Transfer through Pok\u00e9mon HOME or through events"
+            },
+            {
+                "versions": "Shield",
+                "location": "Transfer through Pok\u00e9mon HOME or through events"
+            },
+            {
+                "versions": "Isle of Armor Sword",
+                "location": "Gift in Master Dojo"
+            },
+            {
+                "versions": "Isle of Armor Shield",
+                "location": "Gift in Master Dojo"
+            },
+            {
+                "versions": "Brilliant Diamond",
+                "location": "Grand Underground"
+            },
+            {
+                "versions": "Shining Pearl",
+                "location": "Grand Underground"
+            }
+        ]
+    },
+    {
+        "id": "#002",
+        "name": "Ivysaur",
+        "capture-rate": "45",
+        "types": [
+            "Grass-type",
+            "Poison-type"
+        ],
+        "locations": [
+            {
+                "versions": "Sword",
+                "location": "Transfer through Pok\u00e9mon HOME or through events"
+            },
+            {
+                "versions": "Shield",
+                "location": "Transfer through Pok\u00e9mon HOME or through events"
+            },
+            {
+                "versions": "Isle of Armor Sword",
+                "location": "Evolve Bulbasaur"
+            },
+            {
+                "versions": "Isle of Armor Shield",
+                "location": "Evolve Bulbasaur"
+            },
+            {
+                "versions": "Crown Tundra Sword",
+                "location": "Dynamax Adventures"
+            },
+            {
+                "versions": "Crown Tundra Shield",
+                "location": "Dynamax Adventures"
+            },
+            {
+                "versions": "Brilliant Diamond",
+                "location": "Evolve Bulbasaur"
+            },
+            {
+                "versions": "Shining Pearl",
+                "location": "Evolve Bulbasaur"
+            }
+        ]
+    },
+    {
+        "id": "#003",
+        "name": "Venusaur",
+        "capture-rate": "45",
+        "types": [
+            "Grass-type",
+            "Poison-type"
+        ],
+        "locations": [
+            {
+                "versions": "\nMaleFemale\n\n\n",
+                "location": "Male"
+            },
+            {
+                "versions": "Male",
+                "location": "Female"
+            },
+            {
+                "versions": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "id": "#004",
+        "name": "Charmander",
+        "capture-rate": "45",
+        "types": [
+            "Fire-type"
+        ],
+        "locations": [
+            {
+                "versions": "Sword",
+                "location": "Gift from Leon in PostwickMax Raid Battles: Hammerlocke Hills, Lake of Outrage"
+            },
+            {
+                "versions": "Shield",
+                "location": "Gift from Leon in PostwickMax Raid Battles: Hammerlocke Hills, Lake of Outrage"
+            },
+            {
+                "versions": "Brilliant Diamond",
+                "location": "Grand Underground"
+            },
+            {
+                "versions": "Shining Pearl",
+                "location": "Grand Underground"
+            }
+        ]
+    },
+    {
+        "id": "#005",
+        "name": "Charmeleon",
+        "capture-rate": "45",
+        "types": [
+            "Fire-type"
+        ],
+        "locations": [
+            {
+                "versions": "Sword",
+                "location": "Max Raid Battles: Hammerlocke Hills, Lake of Outrage"
+            },
+            {
+                "versions": "Shield",
+                "location": "Max Raid Battles: Hammerlocke Hills, Lake of Outrage"
+            },
+            {
+                "versions": "Crown Tundra Sword",
+                "location": "Dynamax Adventures"
+            },
+            {
+                "versions": "Crown Tundra Shield",
+                "location": "Dynamax Adventures"
+            },
+            {
+                "versions": "Brilliant Diamond",
+                "location": "Evolve Charmander"
+            },
+            {
+                "versions": "Shining Pearl",
+                "location": "Evolve Charmander"
+            }
+        ]
+    },
+    {
+        "id": "#006",
+        "name": "Charizard",
+        "capture-rate": "45",
+        "types": [
+            "Fire-type",
+            "Flying-type"
+        ],
+        "locations": [
+            {
+                "versions": "Sword",
+                "location": "Max Raid Battles: Hammerlocke HillsGigantamax Raid Battles: Lake of Outrage"
+            },
+            {
+                "versions": "Shield",
+                "location": "Max Raid Battles: Hammerlocke HillsGigantamax Raid Battles: Lake of Outrage"
+            },
+            {
+                "versions": "Isle of Armor Sword",
+                "location": "Max Raid Battles: Fields of Honor, Challenge Beach, Loop Lagoon, Potbottom Desert"
+            },
+            {
+                "versions": "Isle of Armor Shield",
+                "location": "Max Raid Battles: Fields of Honor, Challenge Beach, Loop Lagoon, Potbottom Desert"
+            },
+            {
+                "versions": "Brilliant Diamond",
+                "location": "Evolve Charmeleon"
+            },
+            {
+                "versions": "Shining Pearl",
+                "location": "Evolve Charmeleon"
+            },
+            {
+                "versions": "Trainer Locations",
+                "location": "\u00a0"
+            }
+        ]
+    },
+    {
+        "id": "#007",
+        "name": "Squirtle",
+        "capture-rate": "45",
+        "types": [
+            "Water-type"
+        ],
+        "locations": [
+            {
+                "versions": "Sword",
+                "location": "Transfer through Pok\u00e9mon HOME or through events"
+            },
+            {
+                "versions": "Shield",
+                "location": "Transfer through Pok\u00e9mon HOME or through events"
+            },
+            {
+                "versions": "Isle of Armor Sword",
+                "location": "Gift in Master Dojo"
+            },
+            {
+                "versions": "Isle of Armor Shield",
+                "location": "Gift in Master Dojo"
+            },
+            {
+                "versions": "Brilliant Diamond",
+                "location": "Grand Underground"
+            },
+            {
+                "versions": "Shining Pearl",
+                "location": "Grand Underground"
+            }
+        ]
+    },
+    {
+        "id": "#008",
+        "name": "Wartortle",
+        "capture-rate": "45",
+        "types": [
+            "Water-type"
+        ],
+        "locations": [
+            {
+                "versions": "Sword",
+                "location": "Transfer through Pok\u00e9mon HOME or through events"
+            },
+            {
+                "versions": "Shield",
+                "location": "Transfer through Pok\u00e9mon HOME or through events"
+            },
+            {
+                "versions": "Isle of Armor Sword",
+                "location": "Evolve Squirtle"
+            },
+            {
+                "versions": "Isle of Armor Shield",
+                "location": "Evolve Squirtle"
+            },
+            {
+                "versions": "Crown Tundra Sword",
+                "location": "Dynamax Adventures"
+            },
+            {
+                "versions": "Crown Tundra Shield",
+                "location": "Dynamax Adventures"
+            },
+            {
+                "versions": "Brilliant Diamond",
+                "location": "Evolve Squirtle"
+            },
+            {
+                "versions": "Shining Pearl",
+                "location": "Evolve Squirtle"
+            }
+        ]
+    },
+    {
+        "id": "#009",
+        "name": "Blastoise",
+        "capture-rate": "45",
+        "types": [
+            "Water-type"
+        ],
+        "locations": [
+            {
+                "versions": "Sword",
+                "location": "Transfer through Pok\u00e9mon HOME or through events"
+            },
+            {
+                "versions": "Shield",
+                "location": "Transfer through Pok\u00e9mon HOME or through events"
+            },
+            {
+                "versions": "Isle of Armor Sword",
+                "location": "Max Raid Battles: Workout Sea, Stepping-Stone SeaGigantamax Raid Battles: Workout Sea, Stepping-Stone Sea"
+            },
+            {
+                "versions": "Isle of Armor Shield",
+                "location": "Max Raid Battles: Workout Sea, Stepping-Stone SeaGigantamax Raid Battles: Workout Sea, Stepping-Stone Sea"
+            },
+            {
+                "versions": "Brilliant Diamond",
+                "location": "Evolve Wartortle"
+            },
+            {
+                "versions": "Shining Pearl",
+                "location": "Evolve Wartortle"
+            },
+            {
+                "versions": "Trainer Locations",
+                "location": "\u00a0"
+            }
+        ]
+    }
+]
